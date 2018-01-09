@@ -5,7 +5,7 @@ This is a brief documentation about Sublime Text 3 Kite Plugin
 ## Supported Sublime Text Versions
 
 The plugin supports any Sublime Text build equal or higher than 3000 but some features require specific version. That
-means that if your Sublime Text build is lowe than the needed one for a given feature, that feature will remain
+means that if your Sublime Text build is lower than the needed one for a given feature, that feature will remain
 disabled, you can find a table of required versions by feature below.
 
 ### Table of required Sublime Text build by feature
